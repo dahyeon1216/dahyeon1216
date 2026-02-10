@@ -1,3 +1,8 @@
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hi!%20I'm%20dahyeon🙌&animation=&fontColor=000000&fontSize=50" />
+    </div>
+
+
 ### Hi, I'm Dahyeon 👋
 I am interested in information security,  
 with hands-on experience in backend development and cloud infrastructure.  
@@ -29,8 +34,6 @@ to understand how systems actually work.
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=dahyeon1216&bg_color=60,d2dcf4,d6c7ff&title_color=000000&text_color=000000"
-         />  </div> 
-    </div>
+
+
     
