@@ -30,10 +30,13 @@ to understand how systems actually work.
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://velog.io/@sally1023p/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@sally1023p/posts"> </a>
-         <a href=mailto:sally1023p@gmail.con> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:sally1023p@gmail.con"> </a>
+         <a href=mailto:sally1023p@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:sally1023p@gmail.con"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
+    
+
+
 
 
     
