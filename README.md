@@ -4,7 +4,7 @@
 
 
 ### Hi, I'm Dahyeon 👋
-I am interested in information security,  
+I am interested in information security and Backend Development
 with hands-on experience in backend development and cloud infrastructure.  
 I study security through courses and reverse engineering  
 to understand how systems actually work.
