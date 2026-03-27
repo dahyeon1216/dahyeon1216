@@ -6,8 +6,8 @@
 ### Hi, I'm Dahyeon 👋
 I am interested in information security and Backend Development
 with hands-on experience in backend development and cloud infrastructure.  
-I study security through courses and reverse engineering  
-to understand how systems actually work.
+I am a backend developer interested in information security and system architecture.
+I focus on understanding how systems work internally through backend development, cloud infrastructure, and security research.
 
 ---
 <div align= "center">
@@ -34,9 +34,24 @@ to understand how systems actually work.
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    
+
+---
+<div align="center">
+
+### ⭐ What I can help with ⭐
+
+| Area | Skills |
+|------|--------|
+| Backend | Spring Boot, REST API, Backend System Design |
+| Database | MySQL, Redis, Schema Design |
+| Cloud | AWS (EC2, RDS, S3), Docker |
+| System | Linux, Networking basics |
+| Testing | API Testing, Postman, Swagger |
+| Development | Bug fixing, Debugging |
+| Documentation | Technical Documentation |
+| Collaboration | GitHub Project Management |
 
 
-
-
+**Available for freelance and remote technical support opportunities.**
+</div>
     
