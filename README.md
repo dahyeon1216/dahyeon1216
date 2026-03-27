@@ -54,4 +54,93 @@ I focus on understanding how systems work internally through backend development
 
 **Available for freelance and remote technical support opportunities.**
 </div>
+
+---
+<div align="center">
     
+## 🍀Projects
+
+### NetLibrary – IoT Library Management System  
+🔗 https://github.com/SMWU-2025-02-Network/2025-02-Network-Server
+
+Backend system integrating seat management, real-time chat, and sensor monitoring.
+
+**Tech Stack**  
+Java, Spring Boot, MySQL, TCP Socket, JSON Protocol, AWS  
+
+**Key Contributions**
+- Designed TCP socket communication server
+- Implemented multi-thread architecture
+- Built real-time message routing system
+- Designed seat management logic
+- Applied role-based access control
+
+---
+
+### UniTrip – Travel Platform Backend  
+🔗 https://github.com/SoluxteamMerge/30th_1_Merge_UniTrip_Backend.git
+
+REST API based travel service backend.
+
+**Tech Stack**  
+Spring Boot, MySQL, AWS  
+
+**Key Contributions**
+- Developed REST APIs
+- Designed database schema
+- Built AWS deployment environment
+- Implemented authentication features
+
+---
+
+### Actionary – Productivity Platform 
+🔗 https://github.com/sm-solux/30th_2_solux_Actionary_back.git
+
+All-in-one productivity platform for habit and study management.
+
+**Tech Stack**  
+Java, Spring Boot, AWS, Docker, MySQL, Redis  
+
+**Key Contributions**
+- Led project planning and team coordination
+- Developed backend APIs
+- Supported AWS infrastructure setup
+- Managed GitHub collaboration workflow
+
+---
+
+### Q&B – Book Q&A Community Platform  
+🔗 https://github.com/q-n-b/BackEnd.git
+
+Backend service integrating ML recommendation and cloud infrastructure.
+
+**Tech Stack**  
+Spring Boot, AWS EC2/S3/RDS, MySQL  
+
+**Key Contributions**
+- Built backend server architecture
+- Designed AWS infrastructure
+- Integrated ML server API
+- Implemented internal API authentication
+
+---
+
+### CrackMe – Reverse Engineering Security Project  
+🔗 https://github.com/dahyeon1216/2025_2_system_security/tree/39d9212e700ed2498eb8a420357e95c86670a122/repos/Final
+
+Security project analyzing attack techniques and implementing defense logic.
+
+**Tech Stack**  
+C++, Assembly, WinAPI, x32dbg  
+
+**Key Contributions**
+- Reverse engineered authentication logic
+- Designed attack simulation programs
+- Implemented defense detection logic
+- Improved detection rate through behavior analysis
+
+---
+</div>
+
+
+
