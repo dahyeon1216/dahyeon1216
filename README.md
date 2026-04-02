@@ -1,9 +1,9 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hi!%20I'm%20dahyeon🙌&animation=&fontColor=000000&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hi!%20I'm%20ssunnun🙌&animation=&fontColor=000000&fontSize=50" />
     </div>
 
 
-### Hi, I'm Dahyeon 👋
+### Hi, I'm Ssunnun 👋
 I am a backend developer interested in information security and system architecture,
 with hands-on experience in backend development and cloud infrastructure.
 
